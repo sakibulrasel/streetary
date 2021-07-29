@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933505242349",
+    "project_id": "streetary-b15b9",
+    "storage_bucket": "streetary-b15b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933505242349:android:4f3c2687e6518ae0aaa8e4",
+        "android_client_info": {
+          "package_name": "com.sgarikipati.streetary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933505242349-gmvcsi7cg84bpqs833fmfu022ops5j6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgarikipati.streetary",
+            "certificate_hash": "a71da1a5e7bbff49df34db1fad1431a8200b4067"
+          }
+        },
+        {
+          "client_id": "933505242349-cnanpil4t4gdq3hnc8sipcrdpgu857ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJ9LnPecRKspYuJtoDMR-XlEC9iF3ghg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933505242349-cnanpil4t4gdq3hnc8sipcrdpgu857ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
